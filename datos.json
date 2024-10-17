@@ -1,0 +1,55 @@
+[
+    {
+        "codigo": "Ref01",
+        "nombre": "Manzanas",
+        "precio": 5000,
+        "cantidad": 25
+    }, {
+        "codigo": "Ref02",
+        "nombre": "Limones",
+        "precio": 2300,
+        "cantidad": 15
+    }, {
+        "codigo": "Ref03",
+        "nombre": "Peras",
+        "precio": 2700,
+        "cantidad": 33
+    },
+    {
+        "codigo": "Ref04",
+        "nombre": "Arandanos",
+        "precio": 9300,
+        "cantidad": 5
+    }, {
+        "codigo": "Ref05",
+        "nombre": "Tomates",
+        "precio": 2100,
+        "cantidad": 42
+    }, {
+        "codigo": "Ref06",
+        "nombre": "Fresas",
+        "precio": 4100,
+        "cantidad": 3
+    }, {
+        "codigo": "Ref07",
+        "nombre": "Helado",
+        "precio": 4500,
+        "cantidad": 41
+    }, {
+        "codigo": "Ref08",
+        "nombre": "Galletas",
+        "precio": 500,
+        "cantidad": 8
+    }, {
+        "codigo": "Ref09",
+        "nombre": "Chocolates",
+        "precio": 3500,
+        "cantidad": 80
+    }, 
+    {
+        "codigo": "Ref10",
+        "nombre": "Jamon",
+        "precio": 15000,
+        "cantidad": 10
+    }
+]
